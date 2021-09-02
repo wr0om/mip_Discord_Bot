@@ -35,6 +35,16 @@ The third command is <kbd>!weather city</kbd> -> it sends sends the current weat
 :-------------------------:|:-------------------------:|:-------------------------:
 ![image][meme]             |![image][covid]            |![image][weather]
 
+
+<h3 align="center">ERROR Example</h3>
+<p align="center">
+<img align="center" alt="ERROR" width="450px" src="https://user-images.githubusercontent.com/59180254/131848803-ea7f93fd-e410-4613-8424-48763d4bab6b.png"/>
+</p>
+
+
+
+
+
 [meme]: https://user-images.githubusercontent.com/59180254/131847058-2025e6d2-6b82-4771-bcfe-d983978b60e5.png
 [covid]: https://user-images.githubusercontent.com/59180254/131848130-ef85b8ec-f68c-4ac3-9f91-dd0372c144b0.png
 [weather]: https://user-images.githubusercontent.com/59180254/131848328-6bbba314-9475-44b2-8180-8c4146fa2b5c.png
