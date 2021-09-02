@@ -18,13 +18,14 @@ There are 3 main commands currently on the bot, they are explained in the <kbd>!
 </p>
 
 
-The first command is <kbd>!meme</kbd> -> it sends a random meme from a random funny subreddit using [Meme_Api](https://github.com/D3vd/Meme_Api) By D3vd.
+
+* <kbd>!meme</kbd> -> sends a random meme from a random funny subreddit using [Meme_Api](https://github.com/D3vd/Meme_Api) By D3vd.
 
 
-The second command is <kbd>!covid country</kbd> -> it sends covid statistics of a given country using [COVID-19 World and India data](https://rapidapi.com/spamakashrajtech/api/corona-virus-world-and-india-data) By akash.
+* <kbd>!covid country</kbd> -> sends covid statistics of a given country using [COVID-19 World and India data](https://rapidapi.com/spamakashrajtech/api/corona-virus-world-and-india-data) By akash.
 
 
-The third command is <kbd>!weather city</kbd> -> it sends sends the current weather description and Temperature using [WeatherAPI.com](https://rapidapi.com/weatherapi/api/weatherapi-com/).
+* <kbd>!weather city</kbd> -> sends sends the current weather description and Temperature using [WeatherAPI.com](https://rapidapi.com/weatherapi/api/weatherapi-com/).
 
 
 <h2 align="center">Commands In Action</h2>
