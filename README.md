@@ -25,7 +25,7 @@ There are 3 main commands currently on the bot, they are explained in the <kbd>!
 * <kbd>!covid country</kbd> -> sends covid statistics of a given country using [COVID-19 World and India data](https://rapidapi.com/spamakashrajtech/api/corona-virus-world-and-india-data) By akash.
 
 
-* <kbd>!weather city</kbd> -> sends sends the current weather description and Temperature using [WeatherAPI.com](https://rapidapi.com/weatherapi/api/weatherapi-com/).
+* <kbd>!weather city</kbd> -> sends the current weather description and Temperature using [WeatherAPI.com](https://rapidapi.com/weatherapi/api/weatherapi-com/).
 
 
 <h2 align="center">Commands In Action</h2>
