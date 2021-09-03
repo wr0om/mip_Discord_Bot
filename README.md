@@ -9,7 +9,7 @@ The mip bot is a small project I decided to create while learning javascript - t
 <hr/>
 
 
-This bot is currently running on [Replit](https://replit.com/) and using a 3rd party site called [UptimeRobot](https://uptimerobot.com/) to keep it online indefinitely.
+This bot is currently running on [Replit](https://replit.com/) and using a 3rd party service called [UptimeRobot](https://uptimerobot.com/) to keep it online indefinitely.
 </br></br>
 There are 3 main commands currently on the bot, they are explained in the <kbd>!help</kbd> command:
 
